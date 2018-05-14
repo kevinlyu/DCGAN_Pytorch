@@ -1,7 +1,5 @@
 # DCGAN Pytorch
-DCGAN with vanilla GAN  and Least Square GAN objective
-
-for animation face generation
+DCGAN with vanilla GAN  and Least Square GAN objective for animation face generation
 
 ## DCGAN
 
@@ -19,3 +17,7 @@ for animation face generation
 [Least Square GAN Paper](https://arxiv.org/pdf/1611.04076.pdf)
 
 https://github.com/sunshineatnoon/Paper-Implementations/blob/master/dcgan/dcgan.py
+
+
+## Dataset
+https://www.gwern.net/Danbooru2017
