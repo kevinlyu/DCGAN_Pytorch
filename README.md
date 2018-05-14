@@ -20,6 +20,6 @@ https://www.gwern.net/Danbooru2017
 
 2. [Least Square GAN Paper](https://arxiv.org/pdf/1611.04076.pdf)
 
-3. https://github.com/sunshineatnoon/Paper-Implementations/blob/master/dcgan/dcgan.py
+3. [sunshineatnoon Github](https://github.com/sunshineatnoon/Paper-Implementations/blob/master/dcgan/dcgan.py)
 
-4. https://github.com/chenyuntc/pytorch-book/tree/master/chapter7-GAN%E7%94%9F%E6%88%90%E5%8A%A8%E6%BC%AB%E5%A4%B4%E5%83%8F
+4. [chenyuntc Github](https://github.com/chenyuntc/pytorch-book/tree/master/chapter7-GAN%E7%94%9F%E6%88%90%E5%8A%A8%E6%BC%AB%E5%A4%B4%E5%83%8F)
