@@ -16,7 +16,7 @@ https://www.gwern.net/Danbooru2017
 
 
 ## Reference
-1. [DCGAN Paper](https://arxiv.org/pdf/1511.06434.pdf)
+1. [Deep Convolutional GAN Paper](https://arxiv.org/pdf/1511.06434.pdf)
 
 2. [Least Square GAN Paper](https://arxiv.org/pdf/1611.04076.pdf)
 
