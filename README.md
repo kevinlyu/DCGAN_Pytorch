@@ -16,23 +16,23 @@ https://www.gwern.net/Danbooru2017
 
 
 ## Reference
-1. [Deep Convolutional GAN Paper](https://arxiv.org/pdf/1511.06434.pdf)
+- [Deep Convolutional GAN Paper](https://arxiv.org/pdf/1511.06434.pdf)
 
-2. [Least Square GAN Paper](https://arxiv.org/pdf/1611.04076.pdf)
+- [Least Square GAN Paper](https://arxiv.org/pdf/1611.04076.pdf)
 
-3. [sunshineatnoon Github](https://github.com/sunshineatnoon/Paper-Implementations/blob/master/dcgan/dcgan.py)
+- [sunshineatnoon Github](https://github.com/sunshineatnoon/Paper-Implementations/blob/master/dcgan/dcgan.py)
 
-4. [chenyuntc Github](https://github.com/chenyuntc/pytorch-book/tree/master/chapter7-GAN%E7%94%9F%E6%88%90%E5%8A%A8%E6%BC%AB%E5%A4%B4%E5%83%8F)
+- [chenyuntc Github](https://github.com/chenyuntc/pytorch-book/tree/master/chapter7-GAN%E7%94%9F%E6%88%90%E5%8A%A8%E6%BC%AB%E5%A4%B4%E5%83%8F)
 
 
 ## Environment
 
-Ubuntu 16.04.4
+- Ubuntu 16.04.4
 
-Python 3.5
+- Python 3.5
 
-Pytorch 0.4
+- Pytorch 0.4
 
-CUDA 9.0
+- CUDA 9.0
 
-CuDNN 7 
+- CuDNN 7 
