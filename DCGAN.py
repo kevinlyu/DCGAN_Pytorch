@@ -164,7 +164,7 @@ if (opt.cuda):
 d_loss = []
 g_loss = []
 
-# time counter
+# timer
 start_time = datetime.datetime.now()
 
 # training
